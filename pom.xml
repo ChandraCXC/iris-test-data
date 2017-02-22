@@ -7,6 +7,16 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <description>
+      Contains datasets used for testing.
+    </description>
+
+    <parent>
+        <groupId>cfa.vo</groupId>
+        <artifactId>iris2</artifactId>
+        <version>3.0</version>
+    </parent>
+
     <name>iris-test-data</name>
     <url>http://maven.apache.org</url>
 
